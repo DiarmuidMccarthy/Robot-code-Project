@@ -4,7 +4,7 @@ Code for class project
 
 Code for motor sheild
 
-Code for Leds
+Code for flashing led
 
 Code for Ultrasonic sensor
 
